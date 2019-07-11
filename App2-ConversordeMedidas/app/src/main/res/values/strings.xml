@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Conversor de Medidas</string>
+    <string name="conversorTexto1">Adicione o valor a ser Convertido...</string>
+    <string name="converter">Converter</string>
+    <string name="selectUnidade">Selecione a Unidade:</string>
+    <!-- Strings do AdMob -->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="admob_banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_test_device_id">646558F4E730A196167DFAA5690B33C9</string>
+
+</resources>
