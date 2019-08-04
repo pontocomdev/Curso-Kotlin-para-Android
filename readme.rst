@@ -1,15 +1,12 @@
 ###################
-Desenvolvimento de Temas para WordPress com Bootstrap 4
+Curso de Kotlin para Android Completo e PrÃ¡tico
 ###################
 
-O WordPress hoje em dia tem ganhado muito espaço no cenário de desenvolvimento web por ser de fácil indexação pelos sistemas de buscas, e também por oferecer um sistema de gerenciamento de conteúdo fácil e prático na programação e utilização.
+O Android Ã© o sistema operacional mÃ³vel mais utilizado no mundo e o objetivo deste curso Ã© apresentar os conceitos essenciais do desenvolvimento de aplicativos e jogos para este sistema utilizando a linguagem de programaÃ§Ã£o Kotlin, por meio de exemplos prÃ¡ticos simples.
 
-Porém, poucos são os profissionais que conseguem criar temas personalizados, ou temas do zero para WordPress.
+No curso iremos aprender a desenvolver diversos aplicativos e a medida que vamos progredindo no mesmo iremos aprender desde o bÃ¡sico da programaÃ§Ã£o a ferramentas avanÃ§adas como acesso a web services, banco de dados, recursos multimÃ­dia, mapas, notificaÃ§Ãµes, broadcast receivers, mensagens push com Firebase e muito mais.
 
-Neste curso iremos te ensinar a como criar um tema totalmente personalizado utilizando para isto o Framework Bootstrap 4, que atualmente é o mais utilizado quando se fala em Web Design Responsivo.
-
-Com este curso você será capaz de criar sites com temas próprios ou até vender os temas que criar em sites especializados, tento assim mais uma fonte renda.
-
+Depois de finalizado este curso vocÃª terÃ¡ um bom entendimento para criar seus prÃ³prios aplicativos para Android.
 *******************
-Link para o Curso por apenas R$ 19,99: https://www.udemy.com/temas-wordpress-com-bootstrap-4/?couponCode=GITHUB
+Link para o Curso por apenas R$ 19,99: https://www.udemy.com/curso-de-kotlin-para-android/?couponCode=GITHUB
 *******************
