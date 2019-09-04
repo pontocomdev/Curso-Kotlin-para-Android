@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent" android:id="@+id/layout_root" android:orientation="vertical"
+              android:padding="30dp">
+
+    <TextView
+            android:text="@string/dialog_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/textView" android:textSize="18sp"
+            android:textColor="@color/colorPrimaryText" android:textStyle="bold" android:layout_marginBottom="15dp"/>
+    <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtHomePageUrl" android:textColor="@color/colorPrimaryText" android:textSize="18sp"
+            android:layout_marginBottom="15dp">
+        <requestFocus />
+    </EditText>
+    <CheckedTextView
+            android:text="@string/dialog_option_start"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:id="@+id/checkedTextView"
+            android:checkMark="@drawable/unchecked" android:checked="false" android:gravity="center"/>
+
+</LinearLayout>
